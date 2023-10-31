@@ -51,6 +51,7 @@ We mark featured plugins and tools with a <span class="octicon octicon-star"></s
 - [ipyvega](https://github.com/vega/ipyvega) supports Vega and Vega-Lite charts in Jupyter Notebooks.
 - [VegaLite (Elixir bindings)](https://github.com/elixir-nx/vega_lite).
 - <span class="octicon octicon-star"></span> [VegaLite.jl](https://github.com/queryverse/VegaLite.jl) are Julia bindings to Vega and Vega-Lite.
+- [Deneb.jl](https://github.com/brucala/Deneb.jl) is a convenient Julia API for creating Vega-Lite visualizations.
 - [Vega-Lite "bindings" for R](https://github.com/hrbrmstr/vegalite), create Vega-Lite visualizations in R.
 - [vegaliteR](https://github.com/timelyportfolio/vegaliteR), vega-lite htmlwidget for R.
 - [Vegas](https://github.com/aishfenton/Vegas) brings visualizations to Scala and Spark using Vega-Lite.
@@ -68,6 +69,7 @@ We mark featured plugins and tools with a <span class="octicon octicon-star"></s
 - [Jekyll Diagrams](https://github.com/zhustec/jekyll-diagrams) A Jekyll plugin with support for Vega & Vega-Lite and others diagramming libraries.
 - [Liquid Diagrams](https://github.com/zhustec/liquid-diagrams) A Liquid plugin with support for Vega & Vega-Lite and others diagramming libraries.
 - [Vega-Lite-Linter](https://github.com/idvxlab/vega-lite-linter) is a python package to help users detect and fix encoding issues.
+- [PyGWalker](https://github.com/Kanaries/pygwalker) Turn your pandas dataframe into a Tableau-style User Interface for visual analysis.
 
 ## Programming / Data Science Environment that supports Vega-Lite
 
