@@ -78,6 +78,8 @@ export function embedExample($target: any, spec: TopLevelSpec, actions = true, t
   const {spec: vgSpec} = compile(spec);
 
   const view = new vega.View(vega.parse(vgSpec), {loader: loader}).renderer('svg').initialize($target);
+  console.log('view', view);
+  
 
   if (tooltip) {
     const handler = new Handler().call;
